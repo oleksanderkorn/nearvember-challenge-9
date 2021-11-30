@@ -1,6 +1,7 @@
 {
   "workspaces": [
-    "src/simple",
-    "src/singleton"
+    "src/etherium",
+    "src/near",
+    "src/near_vs_eth"
   ]
 }
